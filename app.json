@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sportsmatch-test",
+    "slug": "sportsmatch-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sportsmatch-test"
+}
