@@ -1,10 +1,10 @@
 <p align="center">
 
-  <h2 align="center">Test SportMatch</h2>
+  <h2 align="center">SportMatch</h2>
 
   <p align="center">
     <br />
-    <small>Tecnichal Test</small>
+    <small>Simple App for list details abouit teams</small>
     <br />
 
   </p>
